@@ -1,4 +1,4 @@
-# e-Sahayak – AI Legal Assistant for the Department of Justice (India)
+# e-Sahayak – AI Legal Assistant 
 
 **e-Sahayak** is an **AI-powered interactive legal assistant** designed to improve citizens’ access to justice in India. It provides 24/7 multilingual legal support, step-by-step legal guidance, and real-time voice assistance—tailored especially for marginalized and digitally underserved communities.
 
